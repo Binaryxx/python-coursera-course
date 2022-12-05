@@ -1,5 +1,5 @@
 # pythonPractice
-Repository that has notebooks and work relating to Python
+Repository that has notebooks and work relating to the Python for Data Science Course and Python Project Course in Coursera
 
 Files with the "pythonNotes..." naming convention are notes to the Coursera videos that are mandated along with any tangents I had and checked out with the help of W3 Schools
 
